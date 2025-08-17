@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmployeeConfirmationApi</name>
+    </assembly>
+    <members>
+        <member name="M:EmployeeConfirmationApi.Controllers.EmployeeConfirmationController.GetEmployees(System.Threading.CancellationToken)">
+            <summary>Get list of employees to trigger workflow.</summary>
+        </member>
+        <member name="M:EmployeeConfirmationApi.Controllers.EmployeeConfirmationController.InsertSchedularDetails(EmployeeConfirmationApi.Models.InsertScheduleDto,System.Threading.CancellationToken)">
+            <summary>Insert employee details before triggering workflow.</summary>
+        </member>
+    </members>
+</doc>
